@@ -18,7 +18,7 @@ MongoDB CURD operations and pagination using Node.js API
          "genres": ["Fantasy", "Magic"],
          "rating": 8,
          "pages": 400,
-         "rating": [
+         "reviews": [
             {
                 "name": "Yoshi",
                 "body": "Great Book!!"
