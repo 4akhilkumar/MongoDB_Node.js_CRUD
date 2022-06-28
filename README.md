@@ -1,4 +1,4 @@
-# MongoDB_Node.js_CRUD
+# MongoDB_Node.js_CRUDP
 MongoDB CURD operations and pagination using Node.js API
 
 ## API Documentation
